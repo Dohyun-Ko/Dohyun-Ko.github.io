@@ -15,4 +15,6 @@ const HeaderWrapper = styled.div`
   align-items: center;
 `;
 
+const TitleText = styled.div``;
+
 export default Header;
