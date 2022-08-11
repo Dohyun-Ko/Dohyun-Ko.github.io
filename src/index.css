@@ -5,10 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #f4f4f4;
+  background-color: #f4f4f4;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: "DMSerifText";
+  src: url("./assets/fonts/DMSerifText-Regular.ttf");
+}
+
+@font-face {
+  font-family: "DMSerifDisplay";
+  src: url("./assets/fonts/DMSerifDisplay-Regular.ttf");
 }
